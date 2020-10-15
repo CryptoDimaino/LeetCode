@@ -5,6 +5,7 @@
 1. Two Sum [https://leetcode.com/problems/two-sum/]
 26. Remove Duplicates from Sorted Array [https://leetcode.com/problems/remove-duplicates-from-sorted-array/]
 859. Buddy Strings [https://leetcode.com/problems/buddy-strings/]
+1108. Defanging an IP Address [https://leetcode.com/problems/defanging-an-ip-address/submissions/]
 1431. Kids With the Greatest Number of Candies [https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/]
 1450. Number of Students Doing Homework at a Given Time [https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/]
 1470. Shuffle the Array [https://leetcode.com/problems/shuffle-the-array/]
